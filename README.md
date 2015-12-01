@@ -1,1 +1,1 @@
-# vagrant_vms
+Create various virtual machines using Vagrant.
